@@ -14,18 +14,3 @@ Nastase Maria, Grupa 311CA
 	in functie de x, y, xy. Similar lui biliniar, calculeaza coeficientii
 	pe baza acestor matrici si ii foloseste pentru a redimensiona matricea
 	initiala.
-
-	Feedback:
-		Am intampinat cateva dificultati la calcularea coeficientilor,
-	deoarece a fost neclarfaptul ca f(x1, y2) ar trebui sa fie f(y2, x1),
-	dar forumul a ajutat mult, deoarece mai erau oameni care au pus
-	intrebari pe tema asta.
-
-		De asemenea, faptul ca am inceput tema de la o versiune mai
-	veche si ca a trebuit sa schimb fisiere de mai multe ori, se intampla
-	sa ma incurc in versiuni, pentru ca uitam sa schimb anumite fisiere. 
-
-		Per total, tema a fost cu adevarat interesanta si raspunsurile
-	de pe forum au ajutat extrem de mult in rezolvarea unor neclaritati.
-	In plus, comentariile din fisiere au fost la randul lor destul de
-	folositoare.
